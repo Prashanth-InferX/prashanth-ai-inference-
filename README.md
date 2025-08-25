@@ -4,7 +4,7 @@ Welcome! I’m Prashanth [Your Last Name], a 15-year entrepreneur with a passion
 
 ## Why InferX Stands Out
 Unlike other inference platforms, InferX offers exclusive advantages:
-- **Unmatched 4-Second Cold Starts**: While others struggle with 10–30s delays (e.g., Fireworks AI), InferX ensures near-instant responses, redefining real-time AI for enterprise-grade applications.
+- **Unmatched 4-Second Cold Starts**: While others struggle with 30s-mins delays , InferX ensures near-instant responses, redefining real-time AI for enterprise-grade applications.
 - **Industry-Leading 80%+ GPU Utilization**: Compared to the typical 10–20% utilization, InferX maximizes efficiency, delivering scalable performance with minimal waste—perfect for high-demand workloads.
 - **Tailored for Seamless Deployment**: Designed for enterprises (e.g., healthcare, finance) and leading cloud providers, InferX combines flexibility with reliability, ensuring effortless integration.
 
